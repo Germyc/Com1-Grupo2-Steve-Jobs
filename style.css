@@ -1,0 +1,15 @@
+#h3{
+    color: green;
+}
+.destacados{
+    text-align: center;
+    margin-top: 20px;
+}
+.cards{
+    align-items: center;
+    text-align: center;
+}
+
+.card{
+    align-items: center;
+}
